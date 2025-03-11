@@ -72,7 +72,6 @@ The dashboard visualizes:
 
 ---
 
-🎯 **Contributors:** [Your Name]  
 📌 **GitHub Repo:** [GitHub Link](https://github.com/SALMA55ASHRAF/DataOPS_and_AI_FRAUD_DETECTION)
 
 🚀 **Happy Coding!** 🎯
